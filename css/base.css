@@ -18,6 +18,11 @@ h2 {
     color: #333;
 }
 
+h2 span {
+    color:#ccc;
+    padding-right: 10px;
+}
+
 ul.nav li.main {
     font-weight: bold;
 }
